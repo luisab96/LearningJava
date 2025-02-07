@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringBootCookBook3_0/Lesson_1/albums/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootCookBook3_0/2_Security/footballauth/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootCookBook3_0/2_Security/footballresource/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityinAction/Chapter1/ssia-ch2-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityinAction/Chapter1/ssia-ch2-ex2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="graalvm-ce-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
