@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="footballresource" />
+        <module name="ssia-ch2-ex2" />
+        <module name="albums" />
+        <module name="ssia-ch2-ex1" />
+        <module name="footballauth" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="albums" options="-parameters" />
+      <module name="footballauth" options="-parameters" />
+      <module name="footballresource" options="-parameters" />
+      <module name="ssia-ch2-ex1" options="-parameters" />
+      <module name="ssia-ch2-ex2" options="-parameters" />
+    </option>
+  </component>
+</project>
