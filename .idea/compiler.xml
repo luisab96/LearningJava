@@ -11,12 +11,14 @@
         <module name="albums" />
         <module name="ssia-ch2-ex1" />
         <module name="footballauth" />
+        <module name="e1" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="albums" options="-parameters" />
+      <module name="e1" options="-parameters" />
       <module name="footballauth" options="-parameters" />
       <module name="footballresource" options="-parameters" />
       <module name="ssia-ch2-ex1" options="-parameters" />
